@@ -38,7 +38,7 @@ to-do-app/ ├── public/ │   └── index.html ├── src/ │   ├
 
 ###  Clone the repository
 
-git clone https://github.com/your-username/to-do-app.git
+git clone https://https://github.com/Durai-2006-sys/To-do-app.git
 cd to-do-app
 
 2️⃣ Install dependencies
